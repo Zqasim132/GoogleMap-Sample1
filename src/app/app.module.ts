@@ -11,11 +11,10 @@ import { AppComponent } from './app.component';
   imports: [
     BrowserModule,
     AgmCoreModule.forRoot({
-      apiKey: 'AIzaSyCDpfZsdAV2xTCjEieMf4bnBJlKP5EI4zY',
+      apiKey: 'YOUR_API_KEY',
       libraries: ['places']
     })
   ],
-  // https://maps.googleapis.com/maps/api/js?key=AIzaSyCDpfZsdAV2xTCjEieMf4bnBJlKP5EI4zY&libraries=places
   providers: [],
   bootstrap: [AppComponent]
 })
