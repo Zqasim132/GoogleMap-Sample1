@@ -1,5 +1,6 @@
 # GoogleMap-Sample1
 Integration on google map through @agm/core library
+Use yarn command to install the node packages
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.4.
 
